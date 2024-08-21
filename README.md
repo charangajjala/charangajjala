@@ -94,7 +94,7 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/charangajjala/charangajjala/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/charangajjala/charangajjala/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 </a>

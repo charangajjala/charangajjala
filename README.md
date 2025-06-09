@@ -11,6 +11,7 @@
 <details>
 <summary>Full Stack Developer 👨‍💻</summary>
   <ul>
+    <li><a href="https://github.com/charangajjala/Query_GenAI">QueryGenAI</a></li>
     <li><a href="https://github.com/charangajjala/MedEase">MedEase</a></li>
     <li><a href="https://github.com/charangajjala/Cloud9_ATS">Cloud9_ATS</a></li>
     <li><a href="https://github.com/charangajjala/MovieStore">MovieStore</a></li>
